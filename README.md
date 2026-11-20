@@ -41,7 +41,7 @@
 | 🔧 有具体场景对号入座 | [PLAYBOOK.md](PLAYBOOK.md) 场景手册（35 个） |
 | 🧭 想知道"为什么有效" | [THEORY.md](THEORY.md) 理论联系实际（30 条） |
 | 🗺 想看完整处理流程 | [WORKFLOWS.md](WORKFLOWS.md) 8 条端到端 SOP |
-| 🚧 中途卡住了 | [FAQ.md](FAQ.md) 实战排错指南（20 个卡点） |
+| 🚧 中途卡住了 | [FAQ.md](FAQ.md) 实战排错指南（30 个卡点） |
 | 🧠 状态不对，先修心 | [MINDSET.md](MINDSET.md) 心智修炼 |
 | 📖 想深挖出处和证据 | [SOURCES.md](SOURCES.md) 资料库、考证与证据链 |
 
