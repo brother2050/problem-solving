@@ -56,7 +56,7 @@
 ## 全库关联图（前后关系）
 
 ```
-                ┌─ THEORY 理论（为什么有效，24 条实证）
+                ┌─ THEORY 理论（为什么有效，30 条实证）
                 │
 遇到问题 → TAXONOMY 分类 → METHOD 七步 → TOOLKIT 工具 → CHECKLIST 模板 → 行动
                 │              │              │                        │
