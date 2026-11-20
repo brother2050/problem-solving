@@ -97,4 +97,4 @@
 
 ---
 
-*心法配方法：[METHOD.md](METHOD.md) ｜ 状态类场景速查：[PLAYBOOK.md](PLAYBOOK.md) 第五章 ｜ 自救完整案例：[CASES.md](CASES.md) 案例 9*
+*心法配方法：[METHOD.md](METHOD.md) ｜ 完整 SOP：[WORKFLOWS.md](WORKFLOWS.md) WF-8 ｜ 状态类场景速查：[PLAYBOOK.md](PLAYBOOK.md) 第五章 ｜ 自救完整案例：[CASES.md](CASES.md) 案例 9 ｜ 底层原理：[THEORY.md](THEORY.md)*

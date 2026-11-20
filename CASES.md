@@ -289,3 +289,5 @@
 2. **从"抄"到"拆"**：看案例先看第 1 步（问题定义），80% 的差距出在这里
 3. **自己写第 13 个案例**：拿你手头最烦的一件事，按 [CHECKLIST.md](CHECKLIST.md) 的画布写一版，再对照 [METHOD.md](METHOD.md) 补漏
 4. **先分类再找案例**：按 [TAXONOMY.md](TAXONOMY.md) 定问题类型，找同类案例对照，比通读 10 个更有效
+
+*实战案例集：分类 [TAXONOMY.md](TAXONOMY.md) ｜ 流程 [METHOD.md](METHOD.md) ｜ SOP [WORKFLOWS.md](WORKFLOWS.md) ｜ 工具 [TOOLKIT.md](TOOLKIT.md) ｜ 原理 [THEORY.md](THEORY.md) ｜ 场景 [PLAYBOOK.md](PLAYBOOK.md) ｜ 模板 [CHECKLIST.md](CHECKLIST.md) ｜ 出处 [SOURCES.md](SOURCES.md)*

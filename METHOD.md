@@ -185,4 +185,4 @@
 
 ---
 
-*配套：工具箱 [TOOLKIT.md](TOOLKIT.md) ｜ 模板清单 [CHECKLIST.md](CHECKLIST.md) ｜ 案例 [CASES.md](CASES.md) ｜ 场景 [PLAYBOOK.md](PLAYBOOK.md) ｜ 心法 [MINDSET.md](MINDSET.md) ｜ 出处 [SOURCES.md](SOURCES.md)*
+*配套：工具箱 [TOOLKIT.md](TOOLKIT.md) ｜ 完整流程 [WORKFLOWS.md](WORKFLOWS.md) ｜ 模板清单 [CHECKLIST.md](CHECKLIST.md) ｜ 案例 [CASES.md](CASES.md) ｜ 场景 [PLAYBOOK.md](PLAYBOOK.md) ｜ 心法 [MINDSET.md](MINDSET.md) ｜ 理论 [THEORY.md](THEORY.md) ｜ 出处 [SOURCES.md](SOURCES.md)*

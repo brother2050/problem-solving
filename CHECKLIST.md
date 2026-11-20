@@ -146,4 +146,4 @@
 ---
 
 *打印建议：急救卡 + 画布贴工位；每日清单存手机备忘录；项目启动 8 问给团队每人一份。*
-*方法：[METHOD.md](METHOD.md) ｜ 工具：[TOOLKIT.md](TOOLKIT.md) ｜ 案例：[CASES.md](CASES.md) ｜ 场景：[PLAYBOOK.md](PLAYBOOK.md) ｜ 心法：[MINDSET.md](MINDSET.md)*
+*方法：[METHOD.md](METHOD.md) ｜ 工具：[TOOLKIT.md](TOOLKIT.md) ｜ 流程：[WORKFLOWS.md](WORKFLOWS.md) ｜ 案例：[CASES.md](CASES.md) ｜ 场景：[PLAYBOOK.md](PLAYBOOK.md) ｜ 心法：[MINDSET.md](MINDSET.md) ｜ 理论：[THEORY.md](THEORY.md)*

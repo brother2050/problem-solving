@@ -100,4 +100,4 @@
 ---
 
 *分类是手段不是目的。定错了类就换，别恋战——能用 1 分钟重新定性的问题，不值得用 1 周硬解。*
-*出处与证据链：[SOURCES.md](SOURCES.md) ｜ 流程：[METHOD.md](METHOD.md) ｜ 案例：[CASES.md](CASES.md)*
+*出处与证据链：[SOURCES.md](SOURCES.md) ｜ 流程：[METHOD.md](METHOD.md) ｜ 完整 SOP：[WORKFLOWS.md](WORKFLOWS.md) ｜ 案例：[CASES.md](CASES.md) ｜ 为什么有效：[THEORY.md](THEORY.md)*

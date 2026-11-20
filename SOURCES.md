@@ -157,6 +157,50 @@
 
 ---
 
+## 实证研究与论文索引（THEORY.md 引用文献）
+
+> 理论要"有用"也要"有据"。以下为 [THEORY.md](THEORY.md) 各条的一手研究出处，均为可检索的公开文献。
+
+| # | 文献 | 出处 | 支撑的理论条目 |
+| --- | --- | --- | --- |
+| 1 | Kahneman & Tversky, *Prospect Theory: An Analysis of Decision under Risk* | Econometrica, 1979 | 前景理论 |
+| 2 | Tversky & Kahneman, *Judgment under Uncertainty: Heuristics and Biases* | Science, 1974 | 启发式与偏差 |
+| 3 | Fischhoff, *Hindsight ≠ Foresight* | J. Exp. Psychology: HP&P, 1975 | 事后偏见 |
+| 4 | Kruger & Dunning, *Unskilled and Unaware of It* | JPSP, 1999 | 达克效应 |
+| 5 | Locke & Latham, *Building a Practically Useful Theory of Goal Setting* | American Psychologist, 2002 | 目标设定理论 |
+| 6 | Gollwitzer, *Implementation Intentions: Strong Effects of Simple Plans* | American Psychologist, 1999 | 实施意图 |
+| 7 | Deci & Ryan, *Intrinsic Motivation and Self-Determination* | Plenum, 1985 | 自我决定理论 |
+| 8 | Yerkes & Dodson, *The Relation of Strength of Stimulus to Rapidity of Habit-Formation* | J. Comp. Neurology & Psychology, 1908 | 耶克斯-多德森定律 |
+| 9 | Lally et al., *How are habits formed* | Eur. J. Social Psychology, 2010 | 习惯形成平均 66 天 |
+| 10 | Fogg, *Tiny Habits* | Houghton Mifflin Harcourt, 2019 | 微习惯 B=MAP |
+| 11 | Thaler & Sunstein, *Nudge* | Yale Univ. Press, 2008 | 环境设计/选择架构 |
+| 12 | Roediger & Karpicke, *Test-Enhanced Learning* | Psychological Science, 2006 | 检索练习 |
+| 13 | Cepeda et al., *Distributed practice in verbal recall tasks* | Review of Educational Research, 2006 | 间隔效应 |
+| 14 | Ericsson, Krampe & Tesch-Römer, *The Role of Deliberate Practice* | Psychological Review, 1993 | 刻意练习 |
+| 15 | Argyris, *Double Loop Learning in Organizations* | HBR, 1977 | 双环学习 |
+| 16 | Edmondson, *Psychological Safety and Learning Behavior in Work Teams* | ASQ, 1999 | 心理安全感 |
+| 17 | Vaughan, *The Challenger Launch Decision* | Univ. of Chicago Press, 1996 | 偏差正常化 |
+| 18 | Goodhart（古德哈特定律）/ Campbell, *Assessing the impact of planned social change* | 1975 / Eval. and Program Planning, 1979 | Goodhart 定律 |
+| 19 | Meadows, *Leverage Points: Places to Intervene in a System* | Sustainability Institute, 1999 | 系统杠杆点 |
+| 20 | Ross, *The Intuitive Psychologist and His Shortcomings* | Adv. Exp. Social Psychology, 1977 | 基本归因错误 |
+| 21 | Cialdini, *Influence* | William Morrow, 1984 | 互惠原则 |
+| 22 | Festinger, *A Theory of Cognitive Dissonance* | Stanford Univ. Press, 1957 | 认知失调 |
+| 23 | Luft & Ingham, *The Johari Window* | 1955（UCLA 人际关系研讨会） | 乔哈里视窗 |
+| 24 | Frankl, *Man's Search for Meaning* | 1946 | 意义疗法 |
+| 25 | Klein, *Performing a Project Premortem* | HBR, 2007-09 | Pre-mortem |
+| 26 | Doran, *There's a S.M.A.R.T. way to write management's goals and objectives* | Management Review, 1981-11 | SMART |
+
+## 延伸案例线索（真实事件，可自行深挖）
+
+| 事件 | 看点 | 对应流程/理论 | 线索来源 |
+| --- | --- | --- | --- |
+| 阿波罗 13 号（1970） | 极限危机下目标重定义（"安全带回乘组"）与地面-太空协同 | WF-1、目标回归线 | NASA 官方任务档案与任务报告 |
+| 挑战者号（1986） | O 形环隐患被"偏差正常化"，工程师警告未上达 | #17 偏差正常化、#16 心理安全 | Vaughan《The Challenger Launch Decision》(1996)；罗杰斯委员会报告(1986) |
+| 丰田安东绳 | 任何工人可拉绳停线——"暴露问题"被制度化 | #16 心理安全、#15 双环学习 | 大野耐一《丰田生产方式》；丰田生产体系文献 |
+| 联想复盘方法论 | 把复盘写进组织运作的本土实践 | GRAI、WF-4 / WF-7 | 陈中《复盘》(2013)；邱昭良《复盘+》(2015) |
+| 美军 AAR（1970s 起） | 演练结束当场四问：预期/实际/差异/改进 | AAR、WF-1 第 8 步 | 美军训练体系；Wharton 管理教育案例资料 |
+| 波音 737 MAX（2018-2019） | 防范潜在型问题的反面教材：风险信号与沟通链失效 | WF-1、#17 | 美国国会调查报告；FAA 审查文件（公开） |
+
 ## 怎么读不白读（三条铁律）
 
 1. **先用后读**：流程用起来卡在哪一步，就读哪一类书——卡在表达读《金字塔原理》，卡在决策读《对赌》《思考，快与慢》，卡在执行读《搞定》《掌控习惯》
