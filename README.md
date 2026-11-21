@@ -31,13 +31,29 @@
 - 方法论书看了一堆，但**用不起来**的人
 - 想给团队建一套**共同问题语言**的管理者
 
-## 怎么用（四种打开方式）
+## 怎么用（从这里开始）
+
+> **第一次来？👉 先走 [ROADMAP.md](ROADMAP.md) 学习路线图**——5 分钟定位自己（三条线：急救 / 成长 / 浏览），照图走就知道从哪开始、按什么顺序学、每天做什么。
+
+**推荐阅读顺序**（不用全读，按需取）：
+
+```
+第 0 步  ROADMAP   定位自己 → 选路线（5 分钟）
+第 1 步  TAXONOMY  给问题定性：这是哪类问题？（3 分钟）
+第 2 步  METHOD    学七步流程：从"出事了"到"解决了"
+第 3 步  CHECKLIST 填画布动手：解决一个真实问题
+第 4 步  CASES     看案例对差距：别人怎么走的七步
+第 5 步  TOOLKIT   补工具弹药：按需查选型决策树
+进 阶    THEORY    知道为什么有效；WORKFLOWS 走完整流程
+随 查    PLAYBOOK 场景速查 ｜ FAQ 排错 ｜ GLOSSARY 术语 ｜ SOURCES 出处
+```
 
 | 你现在的状态 | 去看 |
 | --- | --- |
-| 🔥 事情很急，先救火 | [WORKFLOWS.md](WORKFLOWS.md) WF-1 事故处理流程 → [CHECKLIST.md](CHECKLIST.md) 急救卡 |
+| 🗺 **不知道从哪开始** | [ROADMAP.md](ROADMAP.md) 学习路线图（5 分钟定位） |
+| 🔥 事情很急，先救火 | [ROADMAP.md](ROADMAP.md) 急救线 → [WORKFLOWS.md](WORKFLOWS.md) WF-1 → [CHECKLIST.md](CHECKLIST.md) 急救卡 |
 | 🗂 不知道问题算哪类 | [TAXONOMY.md](TAXONOMY.md) 问题分类速查表 |
-| 📚 想系统学一遍 | [METHOD.md](METHOD.md) 有解七步法 → [TOOLKIT.md](TOOLKIT.md) 工具箱 |
+| 📚 想系统学一遍 | [ROADMAP.md](ROADMAP.md) 成长线（7/30/90 天）→ [METHOD.md](METHOD.md) 七步法 |
 | 🎯 想看别人怎么解的 | [CASES.md](CASES.md) 12 个实战案例 + 3 个真实案例 |
 | 🔧 有具体场景对号入座 | [PLAYBOOK.md](PLAYBOOK.md) 场景手册（39 个） |
 | 🧭 想知道"为什么有效" | [THEORY.md](THEORY.md) 理论联系实际（30 条） |
@@ -68,7 +84,7 @@
                 └─ MINDSET 心智（状态底盘）            └─ SOURCES 资料（出处 + 证据链 + 文献）
 ```
 
-**读写闭环**：SOURCES（输入）→ THEORY+METHOD（内化）→ WORKFLOWS（执行）→ CHECKLIST（沉淀）→ 回到 SOURCES 验证出处。
+**读写闭环**：ROADMAP（定位）→ SOURCES（输入）→ THEORY+METHOD（内化）→ WORKFLOWS（执行）→ CHECKLIST（沉淀）→ 回到 SOURCES 验证出处。
 **卡住急救**：任意环节卡壳 → [FAQ.md](FAQ.md) 按阶段查排错指南。
 每篇文件尾部都有"配套"导航，任意入口都能走通全库。
 
@@ -76,6 +92,7 @@
 
 | 文件 | 内容 | 关键词 |
 | --- | --- | --- |
+| [ROADMAP.md](ROADMAP.md) | **学习路线图**：定位 → 阅读顺序 → 7/30/90 天计划 → 角色路线 → 21 天训练营 | 从哪开始、学习顺序、计划 |
 | [TAXONOMY.md](TAXONOMY.md) | 问题分类体系：三分法 + 可控度 + 规模 + 可逆性 + 速查表 | 分类、恢复原状、防范潜在、追求理想 |
 | [METHOD.md](METHOD.md) | 有解七步法：从"出事了"到"解决了"（含贯穿案例 + 方法谱系 + 证据链） | 七步、问题陈述、GROW、KT |
 | [WORKFLOWS.md](WORKFLOWS.md) | 8 条端到端处理流程 + 团队落地 4 周计划：事故 / 冲突 / 决策 / 目标 / 拖延 / 新业务 / 团队 / 低谷 | SOP、交接物、检查点、团队推广 |
@@ -85,7 +102,7 @@
 | [PLAYBOOK.md](PLAYBOOK.md) | 场景手册 39 个：症状 → 诊断 → 三步解法 → 示例 | 职场、学习、生活、关系、情绪、管理、危机 |
 | [FAQ.md](FAQ.md) | 实战排错指南 30 个卡点：症状 → 真原因 → 三步解法 → 回哪查 | 卡住、跑偏、没效果 |
 | [GLOSSARY.md](GLOSSARY.md) | 术语速查：40+ 中英术语一句话定义 + 跳转 | 共同语言、团队共读 |
-| [MINDSET.md](MINDSET.md) | 心智修炼 12 条：认知 / 信念 / 能量 + 低谷急救 | 控制圈、课题分离、反脆弱、知行合一 |
+| [MINDSET.md](MINDSET.md) | 心智修炼 18 条：认知 / 信念 / 能量 + 速查表 + 低谷急救 | 控制圈、课题分离、反脆弱、知行合一 |
 | [CHECKLIST.md](CHECKLIST.md) | 清单模板 18 张：急救卡、画布（含填写示例）、决策矩阵、干系人地图、事实/观点分家表、MVP 画布、实施意图卡、时间日志、行动表、A3、8D、风险表、复盘等 | 拿来即用、可打印 |
 | [SOURCES.md](SOURCES.md) | 资料库：60+ 书单（含书目信息）、26 框架出处考证、26 篇实证文献、证据链、学习路径 | 书单、出处、证据链、文献、7/30/90 天路径 |
 
